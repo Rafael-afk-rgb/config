@@ -1,0 +1,19 @@
+window:
+
+opacity: 1.0
+
+selection:
+
+save_to_clipboard: true
+
+cursor:
+
+style: Beam
+
+
+colors:
+
+  # Tomorrow (https://github.com/aarowill/base16-alacritty/blob/master/colors/base16-tomorrow.yml)
+  # Default colors
+  primary:
+    background: '0x000000'
